@@ -50,3 +50,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/CarolineNeris/CarolineNeris/output/snake.svg" alt="Snake animation" />
+
+###
