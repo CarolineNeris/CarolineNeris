@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning C#, C++, .NET, MVC, Powershell<br>🎯 Goals: Be consistent and continuously overcome myself<br>🎲 Fun fact: I can't play the guitar, and I can't dance (I think not knowing makes things more fun and motivating)</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning C#, C++, .NET, MVC, Powershell<br>🎯 Goals: Be consistent and continuously overcome myself<br>🎲 Fun fact:One of my lesser-known quirks is that, even though I have no talent for playing the guitar and my dance moves are... questionable, from time to time, I star in my own secret show playing 'air guitar' and attempting dance steps worthy of a talent show. After all, the fun is in the attempts, isn't it? 😉🎸💃)</p>
 
 ###
 
